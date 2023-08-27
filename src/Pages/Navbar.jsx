@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
     <div className="navbarcolor">
           <div className="container text-center ">
-          <img src="src\assets\logo.png" alt="" className='logo' /></div>
+          <img src="/assets/logo.png" alt="" className='logo' /></div>
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container-fluid">
               <button
