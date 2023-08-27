@@ -10,7 +10,7 @@ const Home = () => {
                                 
                         <h2 className=''>The <span style={{ color: '#962d1c' }}>Graham balls  </span>
                                     <p><h5 className='description'>are dessert bites made of graham cracker crumbs, condensed milk and cream; they are shaped into balls and then coated with more crumbs. </h5></p> </h2>
-                                    <button>Order Now</button></div> 
+                                    <button className='button1'>Order Now</button></div> 
                         <div className="col">
                         <img src="images/home.jpg" alt="" className='homelogo'/>
                         </div>

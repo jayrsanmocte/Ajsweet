@@ -1,3 +1,10 @@
+html,body {
+  overflow-x: hidden;
+  
+  ;
+}
+
+
 /* Navbar */
 
 * {
@@ -62,4 +69,26 @@
 
 .footers {
   background-color: #fef3cc;
+}
+
+
+.button1 {
+  color: #000907;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #e4860a;
+  border-color: #ff1e01;
+  width: 30%;
+  height: 20%;
+  border-radius: 10px; 
+  box-shadow: #fd9103;
+}
+
+
+.button1:hover {
+  color: #fefefe;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #442701;
+  border-color: #fb4c01e9;
+  width: 30%;
+  height: 20%;
 }
