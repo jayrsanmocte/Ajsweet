@@ -5,6 +5,10 @@
   padding:0;
 }
 
+
+.nav-link {
+  font-size: 30px;
+}
 .navbar {
   --mdb-navbar-box-shadow: none;
 }
@@ -50,4 +54,12 @@
 .down{
   width: 100%;
   
+}
+
+.up {
+  width: 100%;
+}
+
+.footers {
+  background-color: #fef3cc;
 }

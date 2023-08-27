@@ -12,7 +12,7 @@ const Home = () => {
                                     <p><h5 className='description'>are dessert bites made of graham cracker crumbs, condensed milk and cream; they are shaped into balls and then coated with more crumbs. </h5></p> </h2>
                                     <button>Order Now</button></div> 
                         <div className="col">
-                        <img src="src\assets\home.jpg" alt="" className='homelogo'/>
+                        <img src="images/home.jpg" alt="" className='homelogo'/>
                         </div>
                         
             </div>
@@ -21,7 +21,11 @@ const Home = () => {
         
     </div>
     
-    <img src="src\assets\down.png" alt="" className='down'/>
+    <img src="/images/down.png" alt="" className='down'/>
+
+    
+    
+
     </>
   )
 }
