@@ -23,9 +23,40 @@ const Home = () => {
     
     <img src="/images/down.png" alt="" className='down'/>
 
-    
-    
+    <div className="container text-center">
+          <div className="row">
+                <div className="col">
+               <img src="images/tree.png" alt="" className='imglogo' />
+               <p className='description1'>Ideal with the right diet
+</p>
 
+                </div>
+                <div className="col">
+                <img src="images/cal.png" alt="" className='imglogo' />
+                <p className='description1'>Low calorie
+and healthy</p>
+                </div>
+                <div className="col">
+                <img src="images/cow.png" alt=""  className='imglogo'/>
+                <p className='description1'>Does not
+contain milk fat</p>
+                </div>
+                
+          </div>
+    </div>
+   
+    <div className="container text-center pt-5">
+            <p className='title'>JUST LOOK AT THIS GRAHAM BALLS</p>
+                  
+                  <div className="row">
+                        <div className="col">1</div>
+                        <div className="col">1</div>
+                        <div className="col">1</div>
+                        <div className="col">1</div>
+                  </div>
+          
+    </div>
+    
     </>
   )
 }

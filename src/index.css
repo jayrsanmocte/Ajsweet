@@ -54,7 +54,7 @@ html,body {
 .description {
 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: small;
+  font-size: medium;
 }
 
 
@@ -92,3 +92,24 @@ html,body {
   width: 30%;
   height: 20%;
 }
+
+
+.imglogo{
+
+  width: 100px;
+  height: 100px;
+}
+
+.description1{
+  font-family:'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
+
+.title{
+  font-family: 'Times New Roman', Times, serif ;
+  font-size: xx-large;
+  color:#b26807;
+  font-weight: bold;
+}
+
